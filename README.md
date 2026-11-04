@@ -1,3 +1,5 @@
+![ci](https://github.com/QMSS-G5072-2026/weather_liu_kaylin/actions/workflows/ci.yml/badge.svg)
+
 # weather_kl3901
 
 Functions for converting, summarizing, and cleaning weather readings.
